@@ -2,7 +2,7 @@
     {
       "id": 101,
       "name": "Play the music",
-      "imageUrl": "src/assets/host-001.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Giwada/Giwada.github.io-/master/images/host-001.jpg",
       "price": 164,
       "priceCurrency": "EUR",
       "lat": 48.210033,
@@ -11,7 +11,7 @@
     {
       "id": 102,
       "name": "You can play 24/7",
-      "imageUrl": "src/assets/host-002.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Giwada/Giwada.github.io-/master/images/host-002.jpg",
       "price": 220,
       "priceCurrency": "EUR",
       "lat": 48.150033,
@@ -20,7 +20,7 @@
     {
       "id": 103,
       "name": "Group lesson is perfect",
-      "imageUrl": "src/assets/host-003.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Giwada/Giwada.github.io-/master/images/host-003.jpg",
       "price": 158,
       "priceCurrency": "EUR",
       "lat": 48.270033,
@@ -29,16 +29,16 @@
     {
       "id": 104,
       "name": "Let's play music!",
-      "imageUrl": "src/assets/host-004.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Giwada/Giwada.github.io-/master/images/host-004.jpg",
       "price": 115,
       "priceCurrency": "EUR",
       "lat": 48.251840,
       "lng": 16.343371
     },
     {
-      "id": 210,
+      "id": 105,
       "name": "Super large space",
-      "imageUrl": "src/assets/host-005.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Giwada/Giwada.github.io-/master/images/host-005.jpg",
       "price": 135,
       "priceCurrency": "EUR",
       "lat": 48.234839,
