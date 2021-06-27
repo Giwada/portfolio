@@ -12,6 +12,7 @@ h1, h2, h3, h4, h5 {
     display: auto;
     max-width: 100%;
     border: 1px solid #ffffff;
+    pointer-events: none;
 }
 
 /* HEADER 1 */
@@ -40,6 +41,12 @@ h1, h2, h3, h4, h5 {
 }
 
 /* MAIN SECTION */
+.row
+{
+    /* top | right | bottom | left */
+    margin: 1% 1% 1% 1%;
+}
+
 .section 
 {
     background: #ffffff;
@@ -230,3 +237,22 @@ h1, h2, h3, h4, h5 {
     padding: 0 !important;
     margin: 0 !important;
  }
+
+ mark {
+    display: inline-block;
+    line-height: 0em;
+    padding-bottom: 0.5em;
+    background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #f6df08 50%);
+  }
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+    position: absolute;
+    border: 1px solid rgba(0, 0, 0, 0); 
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 375;
+    height: 812;
+  }
