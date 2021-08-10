@@ -36,9 +36,19 @@ h1, h2, h3, h4, h5 {
 
 .header-main
 {
+    position: relative;
     text-align: center;
     font-weight: normal;
 }
+
+
+.header-description
+{
+    position:relative;
+    text-align: center;
+}
+
+
 
 /* MAIN SECTION */
 .row
@@ -53,7 +63,7 @@ h1, h2, h3, h4, h5 {
     color: #232323;
     padding: 1px 1px 1px 1px;
     width: 100vw;
-    border: 1px solid #232323;
+    border: 1px solid #23232300;
 }
 
 .section #header
@@ -64,12 +74,17 @@ h1, h2, h3, h4, h5 {
 .section-projects
 {
     padding: 0 18px 0 18px;
-    border: 1px solid #232323;
+    border: 1px solid #23232300;
 }
 
 .section #footer
 {
     padding: 0px 10px 1px 10px;
+}
+
+.section p
+{
+    font-size: 18px;
 }
 
 /* HEADER 2 */
