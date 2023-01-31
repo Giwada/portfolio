@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5 {
   
   .hovereffect a, .hovereffect p {
     color: #FFF;
-    opacity: 0;
+    opacity: 0.3;
     filter: alpha(opacity=0);
     -webkit-transition: opacity 0.35s, -webkit-transform 0.45s;
     transition: opacity 0.35s, transform 0.45s;
@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5 {
   }
 
 
-  .video-container {
+.video-container {
     overflow: hidden;
     position: relative;
     width:100%;
